@@ -29,7 +29,7 @@ AI: User: Cladius Fernando
       Credit Points: 3
     ...
 
-![Python Code Screenshot](https://github.com/Levin1353/AgenticAI3/raw/main/langgraph%20assignment/python%20code.png)
+![Python Code Screenshot](https://github.com/Levin1353/AgenticAI3/raw/main/langgraph%20assignment/langgraph.png)
 
 ![Langgraph Screenshot](https://github.com/Levin1353/AgenticAI3/raw/main/langgraph%20assignment/python%20code.png)
 

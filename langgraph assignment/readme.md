@@ -29,7 +29,8 @@ AI: User: Cladius Fernando
       Credit Points: 3
     ...
 
-![alt text](https://github.com/Levin1353/AgenticAI3/edit/main/langgraph%20assignment/langgraph.png?raw=true)
+![alt text](langgraph.png)
  
+
 
 

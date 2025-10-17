@@ -14,6 +14,9 @@ This project demonstrates a conversational AI system that interacts with **Credl
      - Expiration Date
      - Credit Points
 
+![alt text](langgraph.png)
+
+
 **Example:**
 ```text
 You: Show badges for Cladius
@@ -29,8 +32,9 @@ AI: User: Cladius Fernando
       Credit Points: 3
     ...
 
-![alt text](langgraph.png)
+
  
+
 
 
 

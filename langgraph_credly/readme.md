@@ -45,7 +45,7 @@ pip install -r requirements.txt
 set GROQ_API_KEY #via export
 
 run langgraph dev in bash terminal
-
+```
 ---
 
 ## Testing Phase
@@ -59,3 +59,4 @@ run langgraph dev in bash terminal
 
 ![Langgraph_1](output/langgraph1.png)
 ![Langgraph_2](output/langgraph2.png)
+
